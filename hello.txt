@@ -1,4 +1,6 @@
 Hello from Main Version!
+Hello from Conflict Demo 2!
+
 Hello from Conflict Branch!
 
 I am learning Git.
