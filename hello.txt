@@ -1,4 +1,4 @@
-Hello GitHub!
+Hello from Conflict Branch!
 
 I am learning Git.
 
