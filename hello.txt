@@ -4,7 +4,3 @@ Hello from Conflict Demo 2!
 Hello from Conflict Branch!
 
 I am learning Git.
-
-Learning git reset.
-
-Learning git revert.
