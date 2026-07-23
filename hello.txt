@@ -1,4 +1,5 @@
 Hello from Main Branch!
+Hello from Conflict Branch!
 
 I am learning Git.
 
