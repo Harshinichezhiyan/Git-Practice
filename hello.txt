@@ -1,8 +1,4 @@
-Hello from Main Branch!
+Hello from Conflict Demo 2!
 Hello from Conflict Branch!
 
 I am learning Git.
-
-Git is easy to learn.
-
-This line was added from Practice Branch.
